@@ -37,6 +37,8 @@ main {
 .main2 {
 min-height: 300px;
 padding-top: 50px;
+font-family: 'Playfair Display', serif; 
+
 }
 
 nav a{
@@ -212,3 +214,6 @@ nav a.mybutton {
     transition-duration: 1s;
 }
 
+.inputwrapper {
+    margin-bottom: 20px;
+}
